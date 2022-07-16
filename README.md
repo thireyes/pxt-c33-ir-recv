@@ -1,15 +1,14 @@
-# IR Remote Receiver Module and Controller Kit
+# C33 Infrared Receiver Module and Controller
 ![Build status badge](https://github.com/BrickHackers/pxt-IR-VS1838/workflows/MakeCode/badge.svg)
 based on [MakerBit IR Receiver](https://github.com/1010Technologies/pxt-makerbit-ir-receiver) by [1010Technologies](https://github.com/1010Technologies)
 
-MakeCode extension for set of IR receiver VS1838B HX1838 and Mini Slim controller (product name can vary depending on the seller - see pictures bellow).
-Kit usually includes 5mm IR LED for construction of your own transmiter.
+MakeCode extension for C33 IR receiver module (VS1838B) and Mini Slim controller.
 
-## IR Receiver VS1838B HX1838
+## C33 Infrared Receiver / VS1838B
 
-| ![IR Receiver VS1838B HX1838](https://github.com/BrickHackers/pxt-IR-VS1838/raw/master/irReceiverUnsoldered.png "IR receiver (unsoldered version)") | ![IR Receiver VS1838B HX1838](https://github.com/BrickHackers/pxt-IR-VS1838/raw/master/irReceiverSoldered.png "IR receiver (soldered version)") |
+| ![C33 Infrared Receiver](https://raw.githubusercontent.com/thireyes/pxt-c33-ir-recv/master/icon.png "IR receiver (unsoldered version)") | 
 | :-------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: | 
-|                                                        _unsoldered components_                                                                      |                                                                    _soldered board_                                                             |
+|                                                        _C33 Infrared Receiver components_                                                                      |  
 IR receiver chip is focused to use with Arduino and Raspberry Pi, however, works with micor:bit and calliope too.
 According to VS1838B datasheet, it features:
 * **[ frequency ]**  38 kHz
