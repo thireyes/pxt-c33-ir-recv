@@ -1,6 +1,6 @@
 # C33 Infrared Receiver Module and Controller
-![Build status badge](https://github.com/BrickHackers/pxt-IR-VS1838/workflows/MakeCode/badge.svg)
-based on [MakerBit IR Receiver](https://github.com/1010Technologies/pxt-makerbit-ir-receiver) by [1010Technologies](https://github.com/1010Technologies)
+
+based on [BrickHackers IR-VS1838](https://github.com/BrickHackers/pxt-IR-VS1838) by [BrickHackers](https://github.com/BrickHackers)
 
 MakeCode extension for C33 IR receiver module (VS1838B) and Mini Slim controller.
 
@@ -29,7 +29,7 @@ Some sellers could print their logo on controller, but functionality should be s
 * **[ transmission distance ]** cca 8 m (specific and surroundings, the receiver sensitivity and other factors)
 
 # Documentation
-> Open this page at [https://github.com/BrickHackers/pxt-IR-VS1838](https://github.com/BrickHackers/pxt-IR-VS1838)
+> Open this page at [https://github.com/thireyes/pxt-c33-ir-recv](https://github.com/thireyes/pxt-c33-ir-recv)
 
 ## Use as Extension
 This repository can be added as an extension in MakeCode.
