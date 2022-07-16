@@ -10,7 +10,7 @@ const enum IrButtonAction {
 
 // *************************************************** [NAMESPACE] IR VS1838 ****************************************** //
 //% weight=95 color=#bb0033 icon="\uf09e" block="C33 IR Receiver"
-//% category="C33 IR VS1838"
+//% category="C33 IR Receiver"
 namespace irVS1838 {
   // * * * * * * * * * * * * * * * * * * * * * * * * * * declarations * * * * * * * * * ** * * * * * * * * * * * //
   let irState: IrState;
