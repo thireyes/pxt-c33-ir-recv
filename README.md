@@ -7,8 +7,8 @@ MakeCode extension for C33 IR receiver module (VS1838B) and Mini Slim controller
 ## C33 Infrared Receiver / VS1838B
 
 | ![C33 Infrared Receiver](https://raw.githubusercontent.com/thireyes/pxt-c33-ir-recv/master/icon.png "IR receiver (unsoldered version)") | 
-| :-------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: | 
-|                                                        _C33 Infrared Receiver components_                                                                      |  
+| :-------------------------------------------------------------------------------------------------------------------------------------: | 
+|                                                        _C33 Infrared Receiver components_                                               |  
 IR receiver chip is focused to use with Arduino and Raspberry Pi, however, works with micor:bit and calliope too.
 According to VS1838B datasheet, it features:
 * **[ frequency ]**  38 kHz
