@@ -1,7 +1,7 @@
 {
     "name": "c33-ir-recv",
     "version": "0.9-alpha",
-    "description": "MakeCode extension for C33 IR receiver module（VS1838B HX1838 and Mini Slim controller）",
+    "description": "MakeCode extension for C33 IR receiver module (VS1838B) and Mini Slim controller",
     "license": "MIT",
     "dependencies": {
         "core": "*"
