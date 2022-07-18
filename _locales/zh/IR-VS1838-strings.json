@@ -31,7 +31,7 @@
   "irVS1838.onIrDatagram|block": "当接收到红外数据",
   "irVS1838.wasIrDataReceived|block": "接收到红外数据",
   "irVS1838|block": "IR VS1838",
-  "{id:category}irVS1838": "IR VS1838",
+  "{id:category}irVS1838": "C33 IR VS1838",
   "{id:group}Datagram": "Datagram",
   "{id:subcategory}Controller": "Mini Slim controller"
 }
