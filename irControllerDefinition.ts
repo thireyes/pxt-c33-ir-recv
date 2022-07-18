@@ -43,6 +43,6 @@ const enum IrButton {
   Number_0 = 0x4a,
   //% block=" "
   Unused_4 = 0x52,
-  //% block="any"
+  //% block="任意"
   Any = -1,
 }
