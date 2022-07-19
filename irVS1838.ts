@@ -4,7 +4,7 @@
 const enum IrButtonAction {
   //% block="pressed"
   Pressed = 0,
-  //% block="released"
+  //% block="释放"
   Released = 1,
 }
 
