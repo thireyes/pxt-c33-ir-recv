@@ -21,7 +21,7 @@
   "IrButton.Unused_3|block": " ",
   "IrButton.Unused_4|block": " ",
   "IrButton.Up|block": "△",
-  "IrButtonAction.Pressed|block": "pressed",
+  "IrButtonAction.Pressed|block": "pressedOK",
   "IrButtonAction.Released|block": "released",
   "irVS1838.connectIrReceiver|block": "connect IR receiver at pin %pin",
   "irVS1838.irButtonCode|block": "IR button code %button",
