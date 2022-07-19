@@ -103,7 +103,7 @@ namespace irVS1838 {
    * @param pin IR receiver pin, eg: DigitalPin.P0
    */
   //% blockId="infrared_connect_receiver"
-  //% block="connect IR receiver at pin %pin"
+  //% block="连接C33红外接收模块到引脚 %pin"
   //% pin.fieldEditor="gridpicker"
   //% pin.fieldOptions.columns=4
   //% pin.fieldOptions.tooltips=0
