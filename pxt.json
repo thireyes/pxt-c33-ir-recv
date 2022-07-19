@@ -1,5 +1,5 @@
 {
-    "name": "IR Remote Receiver and Controller",
+    "name": "C33-IR-Recv",
     "version": "0.0.1",
     "description": "MakeCode extension for C33 IR receiver module (VS1838B) and Mini Slim controller",
     "license": "MIT",
@@ -8,7 +8,7 @@
     },
     "files": [
         "README.md",
-        "_locales/zh/IR-VS1838-strings.json",
+        "_locales/zh/C33-IR-Recv-strings.json",
         "irVS1838.ts",
         "irControllerDefinition.ts"
     ],

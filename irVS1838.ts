@@ -4,7 +4,7 @@
 const enum IrButtonAction {
   //% block="pressed"
   Pressed = 0,
-  //% block="释放"
+  //% block="released"
   Released = 1,
 }
 
@@ -103,7 +103,7 @@ namespace irVS1838 {
    * @param pin IR receiver pin, eg: DigitalPin.P0
    */
   //% blockId="infrared_connect_receiver"
-  //% block="连接C33红外接收模块到引脚 %pin"
+  //% block="connect IR receiver at pin %pin"
   //% pin.fieldEditor="gridpicker"
   //% pin.fieldOptions.columns=4
   //% pin.fieldOptions.tooltips=0
