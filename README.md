@@ -36,7 +36,7 @@ This repository can be added as an extension in MakeCode.
 * open https://makecode.microbit.org/
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/BrickHackers/pxt-IR-VS1838** and import the IR VS1838 extension
+* search for **https://github.com/thireyes/pxt-c33-ir-recv** and import the C33-IR-Recv  extension
 
 
 ## irVS1838.connectIrReceiver
