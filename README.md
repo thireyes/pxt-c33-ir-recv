@@ -2,11 +2,11 @@
 
 Based on [BrickHackers IR-VS1838](https://github.com/BrickHackers/pxt-IR-VS1838) by [BrickHackers](https://github.com/BrickHackers)
 
-MakeCode extension for C33 IR receiver module (VS1838B) and Mini Slim controller.
+MakeCode extension for C33 IR receiver module (VS1838) and Mini Slim controller.
 
-## C33 Infrared Receiver / VS1838B
+## C33 Infrared Receiver / VS1838
 
-| ![C33 Infrared Receiver](https://raw.githubusercontent.com/thireyes/pxt-c33-ir-recv/master/icon.png "IR receiver (unsoldered version)") | 
+| ![C33 Infrared Receiver](https://raw.githubusercontent.com/thireyes/pxt-c33-ir-recv/master/icon.png "C33 Infrared Receiver") | 
 | :-------------------------------------------------------------------------------------------------------------------------------------: | 
 |                                                         _C33 Infrared Receiver Module_                                                  |  
 
