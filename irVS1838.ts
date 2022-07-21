@@ -9,7 +9,7 @@ const enum IrButtonAction {
 }
 
 // *************************************************** [NAMESPACE] IR VS1838 ****************************************** //
-//% weight=95 color=#bb0033 icon="\uf09e" block="C33 IR Reveiver"
+//% weight=95 color=#884898 icon="\uf09e" block="C33 IR Reveiver"
 //% category="IR VS1838"
 namespace irVS1838 {
   // * * * * * * * * * * * * * * * * * * * * * * * * * * declarations * * * * * * * * * ** * * * * * * * * * * * //
