@@ -18,12 +18,12 @@ According to VS1838B datasheet, it features:
 * **[ Size ]** 7.4 mm x 6.2 mm x 5.3 mm
 
 
-| ![IR Controller](https://github.com/BrickHackers/pxt-IR-VS1838/raw/master/irCotnroller.png "IR controller") |
+| ![IR Controller](https://github.com/thireyes/pxt-c33-ir-recv/blob/master/irCotnroller.png "IR controller") |
 | :---------------------------------------------------------------------------------------------------------: |
 |                             _Mini Slim infrared remote controller_                                          |
 
 Some sellers could print their logo on controller, but functionality should be same. 
-* **[ buttons ]** 17 function keys; the effective life of 20,000 pressings
+* **[ buttons ]** 20 function keys; the effective life of 20,000 pressings
 * **[ frequency ]** 38 kHz
 * **[ effective angle ]** 60°
 * **[ transmission distance ]** cca 8 m (specific and surroundings, the receiver sensitivity and other factors)
